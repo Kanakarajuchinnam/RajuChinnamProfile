@@ -18,7 +18,7 @@ const profile = {
   name: "Raju Chinnam",
   title: "Senior Mobile Engineer & AI Specialist",
   email: "rajuchjobs@gmail.com",
-  github: "https://github.com/RajuChinnam/SampleAppOne",
+  github: "https://github.com/Kanakarajuchinnam",
   resumeLabel: "Resume PDF available on request",
   summary:
     "Senior Mobile and AI Backend Engineer with 10+ years of experience building scalable iOS and cross-platform applications with Swift, SwiftUI, Kotlin, and modern reactive frameworks. Recently focused on AI-powered mobile experiences using LLMs, prompt engineering, Google Vertex AI, Python/FastAPI, and cloud deployment.",
