@@ -245,7 +245,7 @@ function App() {
           <p className="section-kicker">Contact</p>
           <h2 id="contact-title">Let’s talk about mobile platforms, SwiftUI, and AI product systems.</h2>
           <p>
-            For senior mobile engineering, iOS architecture, and AI backend opportunities, reach Raju by
+            For Mobile engineering, iOS architecture, and AI backend opportunities, reach Raju by
             email.
           </p>
         </div>
