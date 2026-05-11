@@ -139,7 +139,7 @@ function App() {
           <div className="hero-actions">
             <a className="button primary" href={`mailto:${profile.email}`}>
               <Mail size={18} aria-hidden="true" />
-              Email Chinnam
+              Email Raju
             </a>
             <a className="button secondary" href={profile.github} target="_blank" rel="noreferrer">
               <ArrowUpRight size={18} aria-hidden="true" />
@@ -148,7 +148,7 @@ function App() {
           </div>
         </div>
         <aside className="signal-panel" aria-label="Career snapshot">
-          <div className="availability">Open to senior mobile and AI engineering roles</div>
+          <div className="availability">Open to Mobile and AI engineering roles</div>
           {stats.map((stat) => (
             <div className="stat" key={stat.label}>
               <strong>{stat.value}</strong>
