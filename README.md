@@ -1,4 +1,4 @@
-# RajuChinnamProfile
+# Raju Chinnam Profile
 Mobile Engineer with 10+ years of experience in iOS, React Native, backend APIs, AWS cloud, and automation engineering. Skilled in building scalable, high-performance mobile applications using Swift, SwiftUI, Python FastAPI, MVVM, Clean Architecture, CI/CD, and AI-driven modern application development.
 
 ## Tech Stack
