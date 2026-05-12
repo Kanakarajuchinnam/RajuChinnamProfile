@@ -13,6 +13,7 @@ import {
   Sparkles,
   TestTube2,
 } from "lucide-react";
+import { Analytics } from "@vercel/analytics/react";
 
 const profile = {
   name: "Raju Chinnam",
@@ -261,6 +262,7 @@ function App() {
           <p>{profile.resumeLabel}</p>
         </div>
       </section>
+      <Analytics />
     </main>
   );
 }
